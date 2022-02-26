@@ -1,0 +1,12 @@
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\bin\Release\Personal_Voice_Assistant.exe.config
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\bin\Release\Personal_Voice_Assistant.exe
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\bin\Release\Personal_Voice_Assistant.pdb
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\bin\Release\Personal_Voice_Assistant.xml
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.vbprojAssemblyReference.cache
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.Assistant.resources
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.Resources.resources
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.vbproj.GenerateResource.cache
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.vbproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.exe
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.xml
+C:\Users\Anjan\source\repos\Personal_Voice_Assistant\Personal_Voice_Assistant\obj\Release\Personal_Voice_Assistant.pdb

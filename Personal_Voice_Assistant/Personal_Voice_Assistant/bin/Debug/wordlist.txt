@@ -1,0 +1,2 @@
+"red", "green", "blue", "yellow", "hello John", "hi John", "who is","Dev" , "Anjan", "who are you?",
+"describe", "yourself", "how are you?", "I am fine", "who made you?", "I am fine", "what about you?"

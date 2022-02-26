@@ -1,0 +1,1 @@
+"close Notepad", "close Powerpoint", "close Excel", "close Word", "open Notepad", "open Powerpoint", "open Excel", "open Word", "today date", "what time?", "red", "green", "blue", "yellow", "hello John", "hi John", "who is Anjan?", "who are you?", "describe yourself", "how are you?", "I am fine", "who made you?", "I am fine", "what about you?", "open cmd", "close cmd"
